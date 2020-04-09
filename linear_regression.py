@@ -6,4 +6,13 @@ import seaborn as sns
 %matplotlib inline
 
 #import the dataset and Extract the Dependent and Independant variables
-houses_data = pd.read_csv('housing_train.csv')
+house_data = pd.read_csv('housing_train.csv')
+
+x_train = house_data.iloc[:, :13].values
+y_train = house_data.iloc[:, 13].values
+
+house_data.head()
+
+
+#Heatmap plot
+sns.heatmap(house_data.corr())
