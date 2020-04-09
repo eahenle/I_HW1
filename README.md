@@ -1,4 +1,4 @@
-<p align="center"><img width=50.5% src="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Oregon_State_College_of_Engineering_Logo.jpg/220px-Oregon_State_College_of_Engineering_Logo.jpg"></p>
+<p align="center"><img width=20.5% src="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Oregon_State_College_of_Engineering_Logo.jpg/220px-Oregon_State_College_of_Engineering_Logo.jpg"></p>
 
 
 ## Implementation assignment 1
